@@ -1,6 +1,6 @@
 
 Class Dog 
 
-get_ac
+attr_accessor :name, :breed 
 
 end 
