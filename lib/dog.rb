@@ -7,4 +7,6 @@ attr_accessor :name, :breed
     @breed = breed
   end
 end
-end 
+end
+
+Dog.new("fido", "Great Pyrenees")
