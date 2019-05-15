@@ -10,3 +10,5 @@ end
 end
 
 Dog.new("fido", "Great Pyrenees")
+Dog.new("snoopy", "Puppy")
+Dog.new("lassie", "Hotdog")
